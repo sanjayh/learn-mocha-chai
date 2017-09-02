@@ -1,0 +1,27 @@
+{
+  "name": "learn-mocha-chai",
+  "version": "1.0.0",
+  "description": "learning to test with mocha and chai",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanjayh/learn-mocha-chai.git"
+  },
+  "keywords": [
+    "mocha",
+    "chai"
+  ],
+  "author": "Sanj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanjayh/learn-mocha-chai/issues"
+  },
+  "homepage": "https://github.com/sanjayh/learn-mocha-chai#readme",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^3.5.0"
+  }
+}
